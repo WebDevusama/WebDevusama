@@ -48,7 +48,7 @@
 - Product search, cart & checkout system  
 - Admin dashboard for product management  
 
-🔗 *Repo link coming soon*
+🔗 https://github.com/WebDevusama/E-Commerce-store-shop
 
 ---
 
