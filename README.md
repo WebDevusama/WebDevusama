@@ -12,7 +12,7 @@
 - 🧠 Strong interest in **React, Node.js, REST APIs, and Databases**
 - 💞️ Open to **internships, junior roles, and project collaborations**
 - 📍 Based in **Pakistan**
-- 📫 Email: **usamaiqbal6745@gmail.com**
+- 📫 Email: **usamaiqbal0984@gmail.com**
 
 ---
 
