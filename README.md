@@ -49,6 +49,7 @@
 - Admin dashboard for product management  
 
 🔗 https://github.com/WebDevusama/my-shop
+🔗   https://e-commerce-using-mern-stack-l1hoz8bgd-webdevusamas-projects.vercel.app/
 
 ---
 🚀 MERN Stack Application
